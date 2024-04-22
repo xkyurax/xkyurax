@@ -5,7 +5,6 @@
 ### Top repositórios
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xkyurax&repo=santander-dev-week-2023-api&theme=calm_pink)](https://github.com/xkyurax/santander-dev-week-2023-api)
 
-### Skills
 [![My Skills](https://skillicons.dev/icons?i=java,html,css,git,figma,ps,ai,ae,pr,&theme=dark)](https://skillicons.dev)
 
 
